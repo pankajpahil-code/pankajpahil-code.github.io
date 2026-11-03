@@ -1,0 +1,21 @@
+title: "Capt. Pankaj Pahil — DGCA Ground School Notes"
+description: >-
+  Plain answers to the questions Indian student pilots ask about the DGCA CPL and ATPL
+  exams, from Capt. Pankaj Pahil, pilot and DGCA flight & ground instructor.
+  Free notes, questions and video classes at ghostaviator.com.
+url: "https://pankajpahil-code.github.io"
+baseurl: ""
+lang: en-IN
+author:
+  name: Capt. Pankaj Pahil
+  url: https://ghostaviator.com/about
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+header_pages:
+  - about.md
+youtube_username: PankajPahil
+exclude:
+  - README.md
