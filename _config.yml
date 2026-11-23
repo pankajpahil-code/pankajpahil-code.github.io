@@ -15,6 +15,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 header_pages:
+  - tools-and-books.md
   - about.md
 youtube_username: PankajPahil
 exclude:
